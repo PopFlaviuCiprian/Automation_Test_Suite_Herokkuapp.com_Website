@@ -8,4 +8,4 @@
 - pip install html-testRunner
 
 
-[![](https://markdown-videos.deta.dev/youtube/oeOmknvCeqM)](https://youtu.be/oeOmknvCeqM)
+[![](https://img-c.udemycdn.com/course/750x422/625774_d46c_5.jpg)](https://youtu.be/oeOmknvCeqM)
