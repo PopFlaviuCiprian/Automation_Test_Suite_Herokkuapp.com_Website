@@ -7,5 +7,7 @@
 - pip install webdriver-manager 
 - pip install html-testRunner
 
+- Watch the video below
 
-[![](https://img-c.udemycdn.com/course/750x422/625774_d46c_5.jpg)](https://youtu.be/oeOmknvCeqM)
+
+[![](https://www.howtogeek.com/wp-content/uploads/2021/06/youtube_hero_1200x675.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1)](https://youtu.be/oeOmknvCeqM)
